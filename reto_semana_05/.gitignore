@@ -1,0 +1,19 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Outputs generados
+outputs/*.csv
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
